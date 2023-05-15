@@ -57,7 +57,6 @@ while True:
             probability_picks.append(0)
     print("You won ",user_wins, " times!")
     print("The computer won ",computer_wins, " times!")
-    print(probability_picks)
     i += 1
 
 print("Goodbye")
